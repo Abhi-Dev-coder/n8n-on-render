@@ -9,7 +9,7 @@
 
 
 <div align="center">
- ![image](https://github.com/user-attachments/assets/de996384-52c5-4572-93e4-838dbe4fa307)
+ <img src="docs/N8n-logo-new.svg" alt="Alt text for the image">
   
   <em>Deploy n8n workflow automation platform on Render with ease</em>
 </div>
