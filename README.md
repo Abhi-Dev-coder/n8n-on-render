@@ -9,7 +9,7 @@
 
 
 <div align="center">
-  ![image](https://github.com/user-attachments/assets/9c3604a8-f3bd-4a86-815f-4ed3cf955915)
+ ![image](https://github.com/user-attachments/assets/de996384-52c5-4572-93e4-838dbe4fa307)
   
   <em>Deploy n8n workflow automation platform on Render with ease</em>
 </div>
