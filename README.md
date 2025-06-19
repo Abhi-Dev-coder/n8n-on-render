@@ -9,7 +9,7 @@
 
 
 <div align="center">
- <img src="docs/N8n-logo-new.svg" alt="Alt text for the image">
+ <img src="docs/N8n-logo.png" alt="Alt text for the image">
   
   <em>Deploy n8n workflow automation platform on Render with ease</em>
 </div>
