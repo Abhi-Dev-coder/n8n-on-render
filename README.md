@@ -10,11 +10,9 @@
 
 <div align="center">
 <!--  <img src="docs/N8n-logo.png" alt="Alt text for the image"> -->
-  <img src="docs/N8n-logo.png" alt="Alt text for the image" width="200" height="4000">
-  <em>Deploy n8n workflow automation platform on Render with ease</em>
-</div>
-
----
+  <img src="docs/N8n-logo.png" alt="Alt text for the image" width="auto" height="150">
+</div><br>
+<div align="center"><em>Deploy n8n workflow automation platform on Render with ease</em></div> <br>
 
 A ready-to-deploy repository for hosting n8n on Render's cloud platform. This repository provides a simple and efficient way to deploy n8n as a web service, enabling you to create, manage, and execute automated workflows in the cloud.
 
