@@ -10,7 +10,7 @@
 
 <div align="center">
 <!--  <img src="docs/N8n-logo.png" alt="Alt text for the image"> -->
-  <img src="docs/N8n-logo.png" alt="Alt text for the image" width="200" height="auto">
+  <img src="docs/N8n-logo.png" alt="Alt text for the image" width="200" height="400">
   <em>Deploy n8n workflow automation platform on Render with ease</em>
 </div>
 
